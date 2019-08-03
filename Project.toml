@@ -1,0 +1,8 @@
+name = "HuomaoTimer"
+uuid = "d1d83d48-b59f-11e9-2e75-bf106a7bee77"
+authors = ["Xiong ", "Huomao"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
